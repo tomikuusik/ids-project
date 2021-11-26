@@ -1,5 +1,5 @@
 % Report 1
-% Tomi Theodor Kuusik, Kris Katmuk, Kristen Surva
+% Tomi Theodor Kuusik, Kaarel Kristjan Katmuk, Kristen Surva
 % 29.11.2021
 
 # Business understanding
