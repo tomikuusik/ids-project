@@ -3,5 +3,5 @@
 
 ### Team memebers:
 1. Tomi Theodor Kuusik
-2. Kris Katmuk
+2. Kaarel Kristjan Katmuk
 3. Kristen Surva
