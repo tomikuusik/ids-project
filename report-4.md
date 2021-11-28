@@ -1,4 +1,4 @@
-#Planning your project
+# Planning your project
 ### Tasks:
 1. Making the used data more readable (currently the stock market data is currently contained within separate .txt files which should be made more readable by first transferring the data to .csv files and then compacting the files to one dataset)
    - Python and pandas to read in the data and compact it into one file/dataframe
