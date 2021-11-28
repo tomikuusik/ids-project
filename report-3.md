@@ -14,7 +14,7 @@ On the stocks dataset we won’t exclude any fields for now.
 The data was acquired from 2 seperate Kaggle datasets. Since we’re using pre-made datasets, they are already formatted for us and there were no problems in reading the data into pandas dataframes.
 ## Describing data
 ### Stock data
-The stock data is firstly separated into ETFs and Stocks. For the dates(string), earliest and latest vary between stocks.. Each row of data encompasses a single day. Open(float) and Close(float) being the value of the stock when the market was opened and closed on that day. The High(float) and Close(float) signify the highest and lowest value of the stock on that day. Volume (int) is the number of stocks that were traded on the day.
+The stock data is firstly separated into ETFs and Stocks. For the dates(string), earliest and latest vary between stocks.. Each row of data encompasses a single day. Open(float) and Close(float) being the value of the stock when the market was opened and closed on that day. The High(float) and Low(float) signify the highest and lowest value of the stock on that day. Volume (int) is the number of stocks that were traded on the day.
 
 ### Headline data
 Each row of the reddit worldnews dataset is a single headline. Time_created(int) is the unix timestamp of when the post was created. Date_created(string) is the date formatted like %Y-%m-%d. Up_votes(int) and down_votes(int) are the amount of times the given post was upvoted or downvoted. The title(string) is the title of the post. Over_18(bool) whether or not the post is restricted to accounts whose owners are 18 years or older. Author(string) the reddit account name of the poster. Subreddit(string) the subreddit this post was made on.
