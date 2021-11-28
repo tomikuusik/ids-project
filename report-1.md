@@ -5,7 +5,7 @@
 # Business understanding
 ### Background
 News can be catalysts for stock market fluctuations or the other way around. The hypothesis is that some keywords in news headlines can
-predict market movement trends e.g "Oil prices rise to record levels" would correlate with the rise energy market stocks (in this case the keywords "oil" and "rise" would be the words). However correctly identifying such keywords is very difficult because the keywords do not always lead to market movement and correctly determining such keywords need more situational awareness which can be hard to achive with machine learning. Hence the aim of the task is to determine if such model can be trained and if this task is possible.
+predict market movement trends e.g "Oil prices rise to record levels" would correlate with the rise energy market stocks (in this case the keywords "oil" and "rise" would be the words). However correctly identifying such keywords is very difficult because the keywords do not always lead to market movement and correctly determining such keywords need more situational awareness which can be hard to achieve with machine learning. Hence the aim of the task is to determine if such model can be trained and if this task is possible.
 
 ### Business goals
 1. Determine if a model that can predict stock market movement based on news headlines can be trained
@@ -23,7 +23,7 @@ predict market movement trends e.g "Oil prices rise to record levels" would corr
 ### Requirements, assumptions, constraints
 - Regulize the data by date (i.e headlines for weeks and price movement based on simple moving average for 2 weeks data)
 - For stock data etf's data or bigger stocks grouped by category should be used to reduce the data points.
-- Smalles time range to be analysed should not get bigger than 1 week.
+- Smallest time range to be analyzed should not get bigger than 1 week.
 - Time constraint = deadline of the course project
 
 ### Risks and contingencies
@@ -42,5 +42,5 @@ predict market movement trends e.g "Oil prices rise to record levels" would corr
 - Get a list of best indicators for every security or sector.
 - Get a list of the keywords with the highest correlation in market fluctuation
 
-### Sucess criteria
-- The model has to be atleast 60% accurate.
+### Success criteria
+- The model has to be at least 60% accurate.
